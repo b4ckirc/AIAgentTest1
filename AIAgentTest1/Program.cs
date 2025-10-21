@@ -27,7 +27,7 @@ class Program
 
         // Tool creation
         var weatherTool = AIFunctionFactory.Create(
-            (Func<string, Task<string>>)MeteoService.GetCurrentWeatherByCityAsync
+            (Func<string, Task<string>>)WeatherService.GetCurrentWeatherByCityAsync
         );
 
         Console.WriteLine("Please write your language:");

@@ -5,7 +5,7 @@ using AIAgentTest1.Models;
 
 namespace AIAgentTest1.Services
 {
-    public static class MeteoService
+    public static class WeatherService
     {
         /// <summary>
         /// Service that call weather forecast API
