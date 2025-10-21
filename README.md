@@ -47,8 +47,8 @@ Once Ollama is installed, you need to pull a model that the agent can use. For a
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [YOUR_REPO_URL]
-    cd [your-repo-name]
+    git clone https://github.com/b4ckirc/AIAgentTest1.git
+    cd AIAgentTest1
     ```
 
 2.  **Configure:** Ensure the configuration file (`config.json` or equivalent) correctly points to the running Ollama service and the chosen model.
