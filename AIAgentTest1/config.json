@@ -2,8 +2,5 @@
   "OllamaSettings": {
     "BaseUrl": "http://127.0.0.1:11434",
     "ModelName": "llama3.2:3b"
-  },
-  "AgentSettings": {
-    "SystemPrompt": "Sei un agente meteorologico amichevole. Fornisci il meteo per la località richiesta, nella lingua richiesta."
   }
 }
